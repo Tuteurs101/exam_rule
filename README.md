@@ -1,2 +1,2 @@
 # exam_rule
-Régle explicite des sessions examshell au 101
+Régles explicites des sessions examshell au 101
