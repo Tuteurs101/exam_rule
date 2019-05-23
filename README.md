@@ -1,3 +1,4 @@
+[EN CONSTRUCTION]  
 Règles explicites des sessions examshell au 101 :
 
 Avant l’exam, assurez vous que :
